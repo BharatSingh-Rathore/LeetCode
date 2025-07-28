@@ -12,6 +12,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
@@ -24,5 +25,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
