@@ -25,6 +25,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -36,4 +37,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharatSingh-Rathore/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
